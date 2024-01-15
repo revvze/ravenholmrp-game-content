@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "Wood/woodfloor001a"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown,c17industrial,wasteland"
+	"$bumpmap" "wood/woodfloor001a_normal"
+}

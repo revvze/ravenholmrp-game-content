@@ -1,0 +1,16 @@
+VertexLitGeneric
+
+{
+
+	"$basetexture" "glass/glasswindow010b"
+
+	"$surfaceprop" "glass"
+
+	"%keywords" "c17skyscraper"
+
+	"$envmap" "env_cubemap"
+
+	"$basealphaenvmapmask" 1
+
+}
+

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "metal/metalwall042a_beta"
+	"$surfaceprop" "metal"
+	"$bumpmap" "metal/metalwall042a_beta_normal"
+	"%keywords" "combine"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "4.283"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

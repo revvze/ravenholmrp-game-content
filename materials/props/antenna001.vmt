@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$alphatest" 1
+	"$basetexture" "props/antenna001"
+	"$surfaceprop" "metal"
+	"%keywords" "borealis"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "4.283"
+	"$detailblendfactor" 1
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+
+	"$basetexture" "Models/props_c17/Trap_Propeller001a_BC"
+//BC	= BaseColor
+	
+	
+	"$surfaceprop" "metal"
+//The Model defines the surfaceprop. Ignore.
+	
+	
+	"$bumpmap" "Models/props_c17/Trap_Propeller001a_NDX_EnvM"
+//Ndx	= Normal DirectX
+//EnvM	= Envmap Mask - In this case a metallic map.
+	
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+//Envmapmask location. In this case Normal map alpha. Uses a metallic map!!!
+	
+	
+	"$envmaptint" "[0.25 0.25 0.25]"
+	"$envmapcontrast" "0.5"
+//Due to using a metallic map the strenght of the reflection might need to be adjusted.
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$model 1
+	$basetexture 		metal/metalwall076a
+	$surfaceprop 		metal
+	$bumpmap 			metal/metalwall101b_normal
+}
+

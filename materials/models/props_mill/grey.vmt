@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_mill\grey"
+$FlashlightNoLambert 1
+"%keywords" l4d2
+}

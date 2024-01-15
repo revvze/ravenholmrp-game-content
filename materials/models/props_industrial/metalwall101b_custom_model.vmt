@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture 		models/props_hyper/sactickpod_basemetal001
+	$surfaceprop 		metal
+	$bumpmap 			metal/metalwall101b_normal
+	$envmaptint 		"[ .1 .1 .1 ]"
+	$envmap 			"environment maps/rg"
+	$normalmapalphaenvmapmask 1
+}
+

@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture			"models/props_lab_rtbr/cremjar_color"
+	$bumpmap			"models/props_lab_rtbr/cremjar_normal"
+
+	//$envmap				"env_cubemap"
+	//$normalmapalphaenvmapmask	1
+	//$envmapcontrast			0.5
+	//$envmapsaturation			0.5
+	//$envmaptint			"0.2 0.2 0.35"
+
+	$selfillum				1
+	//$selfillummakscale		0.5
+	//$selfillummask			"models/props_lab_rtbr/cremjar_emissive"
+	$nodecal				1
+	
+}

@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" "nature/sandfloor009c_beta"
+	"$surfaceprop" "sand"
+
+	"$detail" "detail\dirt_detail_01"
+	"$detailscale" "6"
+	"$detailblendfactor" 0.75
+	"$detailblendmode" "0"
+}

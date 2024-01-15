@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+	$basetexture			"models/props_lab_rtbr/cremjar_color"
+	$bumpmap			"models/props_lab_rtbr/cremjar_normal"
+
+	//$selfillum				1
+	//$selfillummask			"models/props_lab_rtbr/cremjar_emissive"
+
+	$nodecal				1
+	$surfaceprop			"computer"
+
+	$envmap				"env_cubemap"
+	$normalmapalphaenvmapmask	1
+	$envmapcontrast			0.5
+	$envmapsaturation			0.5
+	//$envmaptint			"0.2 0.2 0.35"
+
+	$phong				"1"
+	$phongexponent			"36"
+	$phongboost			"0.29"
+	$phongfresnelranges		"[0.4 0.55 1.04]"
+	$phongalbedotint			"1"
+	
+}

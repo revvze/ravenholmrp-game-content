@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$basetexture" "glass/glasswindow001a"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "window"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

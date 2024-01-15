@@ -1,0 +1,12 @@
+VertexLitGeneric
+
+{
+
+	// original shader: basetimeslightmap
+
+	"$basetexture" "props/metalcrate002d"
+
+	"$surfaceprop" "metalpanel"
+
+}
+

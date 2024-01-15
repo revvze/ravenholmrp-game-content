@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\props\coop_autumn\autumn_flashlight\autumn_flashlight_on"
+	"$envmapmask"	"models\props\coop_autumn\autumn_flashlight\autumn_flashlight_mask"
+
+	"$selfillum" "1"
+	"$selfillumtint"          "[3 3 3"
+
+	
+	
+
+	"$envmaplightscale"		"1"
+	"$envmaplightscaleminmax" 	"[0 1.5]"
+
+	"$envmapcontrast" 		".85"
+
+
+}

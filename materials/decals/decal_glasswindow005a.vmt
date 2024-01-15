@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "glass/glasswindow005a"
+	"$surfaceprop" "glass"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "window"
+}

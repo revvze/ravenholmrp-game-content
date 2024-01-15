@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "flesh/rooted_flesh"
+   	"$bumpmap" "dev/water_normal"
+	"Proxies"
+  	  {
+     	   "AnimatedTexture"
+     	   {
+      	      "animatedtexturevar" "$bumpmap"
+     	       "animatedtextureframenumvar" "$bumpframe"
+     	       "animatedtextureframerate" 30.00
+   	     }
+ 	   }
+
+}

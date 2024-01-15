@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\props_hive\anthives\nest_small_dead"
+	"$bumpmap" "models\props_hive\anthives\nest_small_n"
+	"$selfillum" "1"
+	"$selfillummask" "models\props_hive\anthives\nest_small_illum"
+	"$detail" "models\bullchicken\detail_flesh"
+
+	"$phong"     "1"
+	"$phongexponent"  "40"
+	"$phongboost"   "0.05"
+	"$phongfresnelranges"   "[0.2 0.15 0.2]"
+	"$phongwarptexture"  "models/bullchicken/bullsquid_iridescence"
+
+}

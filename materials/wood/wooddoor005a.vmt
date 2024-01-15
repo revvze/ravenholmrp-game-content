@@ -1,0 +1,18 @@
+LightmappedGeneric
+{
+	// Original shader: SphericalEnvMapBlendMaskedBaseTimesLightmap
+	"$basetexture" "wood/wooddoor005a"
+
+// Uncomment these if you add an alpha channel to the base texture
+//	"$basealphaenvmapmask" 1
+//	"$envmapsphere" 1
+//	"$envmap" "env_cubemap"
+
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown"
+
+	"$detail" detail\wood_detail_02
+	"$detailscale" 12.0
+	"$detailblendfactor" 1.0
+	"$detailblendmode" 0
+}

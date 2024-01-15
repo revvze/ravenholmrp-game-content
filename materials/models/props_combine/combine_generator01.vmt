@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+
+	"$basetexture" "models/props_combine/combine_generator01"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/props_combine/combine_generator01_normal"
+	"$selfillum" "1"
+
+
+}

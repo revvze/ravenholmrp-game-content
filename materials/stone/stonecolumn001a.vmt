@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$basetexture" "Stone/stonecolumn001a"
+	"$ssbump" "1"
+	"$bumpmap" "stone/stonecolumn001a_ssbump"
+	"$surfaceprop" "concrete"
+
+	"$detail" detail\concrete_detail_05
+	"$detailscale" 3.0
+	"$detailblendfactor" 0.5
+	"$detailblendmode" 0
+}

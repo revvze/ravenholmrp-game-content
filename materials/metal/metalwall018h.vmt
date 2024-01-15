@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	"$basetexture" "metal/metalwall018h"
+	"$surfaceprop" "metal"
+	"%keywords" "c17industrial,wasteland"
+	"$bumpmap" "metal/metalwall018h_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .75 .75 .75]"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "4.283"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

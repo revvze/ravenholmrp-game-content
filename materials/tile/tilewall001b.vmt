@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	"$basetexture" "tile/tilewall001b"
+	"$surfaceprop" "tile"
+	"%keywords" "c17downtown,c17sewers"
+	"$bumpmap" "tile/tilewall001b_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .8
+	"$envmaptint" "[ .5 .5 .5]"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

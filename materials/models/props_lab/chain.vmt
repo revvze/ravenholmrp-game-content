@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture			"models/props_lab/chain"
+	$bumpmap 			"models/props_lab/chain_n"
+	$phongexponenttexture		"models/props_lab/chain_expo"
+	$normalmapalphaenvmapmask	"1"	
+	$phong 				"1"
+	$phongalbedotint 			"1"
+	$phongboost			"15"
+	$phongfresnelranges		"[.75 .85 1]"
+	$rimlight               			"1"
+	$rimlightexponent      		"1"
+	$rimlightboost          			"0.3"	
+	$envmap 				"env_cubemap"
+	$envmaptint 			"[.7 .7. 6]"
+	$model 				"1"	
+}
+//Kalimando

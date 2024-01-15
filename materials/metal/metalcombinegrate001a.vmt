@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Metal/metalcombinegrate001a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metalgrate"
+	"$alphatest" 1
+        	"$alphatestreference" .3
+	"%keywords" "c17industrial,wasteland"
+
+	"$detail" "detail\metal_detail_02"
+	"$detailscale" "15"
+	"$detailblendfactor" 5.0
+	"$detailblendmode" "0"
+}

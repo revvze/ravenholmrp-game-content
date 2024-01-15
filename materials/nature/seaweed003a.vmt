@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "nature/seaweed003a"
+	"$surfaceprop" "dirt"
+	"%keywords" "wasteland"
+
+	"$detail" "detail\grass_detail_01"
+	"$detailscale" "6"
+	"$detailblendfactor" 0.75
+	"$detailblendmode" "0"
+}

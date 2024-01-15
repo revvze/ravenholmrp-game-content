@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$baseTexture"	"models\props_monastery\furniture_doublechair"
+	"$bumpmap"	"models\props_monastery\furniture_doublechair_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .20 .20 .20]"
+ 		"vertexlitgeneric_HDR_dx9"
+ 		{
+  			"$envmaptint" "[.10 .10 .10]"
+ 		}
+}

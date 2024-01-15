@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$alphatest" "1"
+	"$basetexture" "decals/decalmetalhatch004a"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "airexchange,borealis,c17industrial"
+}

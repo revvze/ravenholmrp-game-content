@@ -1,0 +1,18 @@
+LightmappedGeneric
+{
+	"$basetexture" "stone/marblefloor001a"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown,c17skyscraper"
+
+	"$envmap" "env_cubemap"
+	"$bumpmap" "stone/marblefloor002a_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5]"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

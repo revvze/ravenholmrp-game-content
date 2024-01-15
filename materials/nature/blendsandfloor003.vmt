@@ -1,0 +1,11 @@
+WorldVertexTransition
+{
+	"$basetexture" "nature/sandfloor003a"
+	"$surfaceprop" "sand"
+	"$basetexture2" "nature/sandfloor003b"
+	"$surfaceprop2" "sand"
+	"$detail" "detail\dirt_detail_01"
+	"$detailscale" "6"
+	"$detailblendfactor" 0.75
+	"$detailblendmode" "0"
+}

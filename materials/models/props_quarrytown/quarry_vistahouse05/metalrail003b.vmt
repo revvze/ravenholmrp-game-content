@@ -1,0 +1,16 @@
+VertexLitGeneric
+
+{
+
+	"$basetexture" "metal/metalrail003b"
+
+	"%compilepassbullets" 1
+
+	"$surfaceprop" "metalgrate"
+
+	"%keywords" "c17industrial"
+
+	"$alphatest" 1
+
+}
+

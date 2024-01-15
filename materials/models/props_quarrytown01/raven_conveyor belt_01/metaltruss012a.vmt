@@ -1,0 +1,16 @@
+VertexLitGeneric
+
+{
+
+	"%compilepassbullets" 1
+
+	"$alphatest" 1
+
+	"$basetexture" "metal/metaltruss012a"
+
+	"$surfaceprop" "metal"
+
+	"%keywords" "c17industrial,wasteland"
+
+}
+

@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture models\props_miscellaneous\filecabinet001a_base
+	$bumpmap models\props_miscellaneous\filecabinet001a_normal
+	$envmap env_cubemap
+	$envmapmask models\props_miscellaneous\filecabinet001a_specular
+	$normalalphaenvmapmask 0
+	$surfaceprop metal
+}

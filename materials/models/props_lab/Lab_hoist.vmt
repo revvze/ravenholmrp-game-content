@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_lab/Lab_hoist"
+	"$surfaceprop" "computer"
+	"$model" 1
+}

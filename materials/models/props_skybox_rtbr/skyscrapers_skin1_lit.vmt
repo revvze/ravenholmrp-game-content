@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/props_skybox_rtbr/skyscrapers_color"
+	//"$bumpmap" "models/props_skybox_rtbr/skyscrapers_normal"
+	//"$normalmapalphaenvmapmask"	"1"
+	//"$envmap" env_cubemap
+	//"$envmapcontrast" 1.0
+
+	"$detail" "models/props_skybox_rtbr/skyscrapers_skin1_mask"
+	"$detailscale" 1
+	"$detailblendfactor" 1
+	"$detailblendmode" 5
+}

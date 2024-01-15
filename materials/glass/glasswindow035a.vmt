@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "glass/glasswindow035a"
+	"$surfaceprop" "glass"
+	"%keywords" "airexchange"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

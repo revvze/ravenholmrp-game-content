@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$basetexture" "nature/sandfloor007a_beta"
+	"$bumpmap" "nature/sandfloor007a_beta_normal"
+	"$surfaceprop" "sand"
+	"%keywords" "wasteland"
+
+	"$detail" "detail\dirt_detail_01"
+	"$detailscale" "6"
+	"$detailblendfactor" 0.75
+	"$detailblendmode" "0"
+}

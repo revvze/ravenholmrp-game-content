@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_junk_rtbr/WoodCrates03a"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" 1
+	"$surfaceprop" "wood"
+	
+}
+

@@ -1,0 +1,12 @@
+VertexLitGeneric
+
+{
+
+	"$basetexture" "wood/woodwall049"
+
+	"$surfaceprop" "wood"
+
+	"%keywords" "ep2"
+
+}
+

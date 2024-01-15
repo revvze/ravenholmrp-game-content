@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/digger/digger_grates"
+	"$alphatest" 1
+	"$nocull" 1
+	"$translucent" 1
+}

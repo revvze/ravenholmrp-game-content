@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.4"
+
+	"$basetexture" "Metal/metalfence007a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "chainlink"
+	"%keywords" "c17downtown"
+
+	"$detail" "detail\metal_detail_02"
+	"$detailscale" "15.0"
+	"$detailblendfactor" 5
+	"$detailblendmode" "0"
+}

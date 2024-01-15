@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\rtbr\noose\eyeball_dead"
+	"$halflambert" 1
+}

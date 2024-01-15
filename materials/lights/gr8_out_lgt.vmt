@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+    "$basetexture" "tools/skycolor"
+    "$receiveflashlight" "0"
+    "$singlepassflashlight" "0"
+}

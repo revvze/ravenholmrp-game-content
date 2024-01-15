@@ -1,0 +1,14 @@
+VertexLitGeneric
+
+{
+
+	// original shader: basetimeslightmap
+
+	"$basetexture" "wood/woodwall012a"
+
+	"$surfaceprop" "wood"
+
+	"%keywords" "c17downtown,wasteland"
+
+}
+

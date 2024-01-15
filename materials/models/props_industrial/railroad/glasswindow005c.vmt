@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$alphatest 1
+	$basetexture glass/glasswindow005c
+	$surfaceprop glass
+	$model 1
+}

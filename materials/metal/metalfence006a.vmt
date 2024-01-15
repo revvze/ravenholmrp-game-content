@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$alphatest" 1
+	"$basetexture" "metal/metalfence006a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown,wasteland"
+}

@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$alphatest" 1
+	"$basetexture" "wood/woodtrack001b"
+	"$surfaceprop" "wood"
+	"%keywords" "c17industrial,c17trainstation,wasteland"
+
+	"$detail" detail\wood_detail_01
+	"$detailscale" 4.0
+	"$detailblendfactor" 0.25
+	"$detailblendmode" 0
+}

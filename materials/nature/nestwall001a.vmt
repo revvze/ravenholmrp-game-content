@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "nature/nestwall001a"
+	"$selfillum" 1
+	"$surfaceprop" "carpet"
+
+	"$detail" "detail\dirt_detail_01"
+	"$detailscale" "3"
+	"$detailblendfactor" 1.25
+	"$detailblendmode" "0"
+}

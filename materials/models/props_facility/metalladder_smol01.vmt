@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_facility/metalladder_smol01_color"
+
+	"$surfaceprop"  "metal"
+}

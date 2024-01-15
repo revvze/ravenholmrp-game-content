@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	// original shader: sphericalenvmapblendmaskedbasetimeslightmap
+	"$envmapsphere" 1
+	"$basealphaenvmapmask" 1
+	"$basetexture" "metal/metalwall031a"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown,c17industrial"
+}

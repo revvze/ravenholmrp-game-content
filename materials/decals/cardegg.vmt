@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$alphatest" "1"
+	"$basetexture" "Decals/cardegg"
+	"$decal" 1
+	"$decalscale" 0.1
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

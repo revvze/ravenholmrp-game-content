@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture			"Models/props_borealis/borealis_table001"
+	$surfaceprop			"metal"
+	//"$nocull" 1
+
+	$phong				1
+     	$phongexponent			23
+      	$phongboost			1.0
+       	$phongtint			"[1 1 1]"
+	$phongfresnelranges		"[0.5 2 5]"
+	$basemapalphaphongmask		1
+
+}
+
+

@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "flesh/pustuleflesh_01"
+   	"$bumpmap" "flesh/pustuleflesh_01_n"
+   	"$selfillum" "1"
+   	"$selfillummask" "flesh/pustuleflesh_01_illum"
+}

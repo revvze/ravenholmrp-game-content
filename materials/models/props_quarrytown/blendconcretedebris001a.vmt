@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture" "concrete/concretefloor012a"	
+	"%tooltexture" "concrete/concretefloor012a"
+	"$surfaceprop" "concrete"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+//	"%keywords" "c17downtown"
+	"$bumpmap" "concrete/concretefloor012a_normal"
+}

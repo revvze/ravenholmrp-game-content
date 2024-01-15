@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "plaster/plasterwall045a_beta"
+	"$bumpmap" "plaster/plasterwall045a_beta_normal"
+	"$surfaceprop" "plaster"
+	"%keywords" "c17skyscraper"
+
+	"$detail" "detail\plaster_detail_01"
+	"$detailscale" "6.783"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

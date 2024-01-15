@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$alphatest 1
+	$basetexture metal/metalfence001a
+	$surfaceprop metal
+	$model 1
+}

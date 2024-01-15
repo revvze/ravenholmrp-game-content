@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\combine_turrets\floor_turret/groundturret"
+	"$bumpmap" "models\combine_turrets\floor_turret/groundturret_n"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"	"[0.3 0.3 0.3]"	
+
+ 	"$selfillum" 1
+    	"$selfillummask" "models\combine_turrets\floor_turret/groundturret_illum"
+}

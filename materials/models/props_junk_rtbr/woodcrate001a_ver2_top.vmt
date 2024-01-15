@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Props/woodcrate001a_ver2_top"
+	"$surfaceprop" "wood_panel"
+}

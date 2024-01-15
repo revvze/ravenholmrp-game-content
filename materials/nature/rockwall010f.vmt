@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" "nature/rockwall010f"
+	"$surfaceprop" "concrete"
+
+	"$detail" "detail\rock_detail_03"
+	"$detailscale" "10.0"
+	"$detailblendfactor" 1.0
+	"$detailblendmode" "0"
+}

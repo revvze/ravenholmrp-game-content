@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_lab/teleport_kleiner/inside_floor_diff"
+	"$bumpmap" "models/props_lab/teleport_kleiner/inside_floor_normal"
+	"$detail" "models/props_lab/detail_metal"
+	"$surfaceprop" "solidmetal"
+	"$model" 1
+}

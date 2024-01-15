@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/props_consul_rtbr/consul_statue_head_color"
+	"$bumpmap" "models/props_consul_rtbr/consul_statue_head_normal"
+	"$phong" "1"
+	"$phongboost" "1"
+	//"$halflambert" "1"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .4  .8]"
+	"$normalmapalphaenvmapmask"	"1"
+ }

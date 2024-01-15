@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_lab/teleport_kleiner/Teleport_window_diff"
+	"$bumpmap" "models/props_lab/teleport_kleiner/Teleport_window_normal"
+	"$translucent" "1"
+	$phong 1
+    //$phongexponent 100 
+    $phongfresnelranges "[0.5 1.7 1.11]"
+    $phongalbedotint 1
+	$phongboost 2
+}

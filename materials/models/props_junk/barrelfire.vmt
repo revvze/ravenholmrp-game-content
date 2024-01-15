@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+"$baseTexture" "models/props_junk/BarrelFire_BC"
+"$bumpmap" "models/props_junk/BarrelFire_Ndx_Env"
+
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$envmaptint" "[0.25 0.25 0.25]"
+
+"$detail" "models\props_junk\BarrelFire_Emissive"
+"$detailblendmode" "1"
+"$detailscale" "1"
+"$detailblendfactor" "5"
+}

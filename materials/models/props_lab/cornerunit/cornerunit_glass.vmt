@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\props_lab\cornerunit/cornerunit"
+	"$bumpmap"			"models\props_lab\cornerunit/cornerunit_n"
+	"$translucent" 			"1"
+
+
+	// PHONG
+	$phong                      1
+	$phongboost                 0.2
+	$phongfresnelranges         "[1 3 6]"
+	$nocull 1
+
+
+}

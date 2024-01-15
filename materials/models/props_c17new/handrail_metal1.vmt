@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture models/props_c17new/roof_ventilation01/rotor_metal3
+	$surfaceprop metal
+}

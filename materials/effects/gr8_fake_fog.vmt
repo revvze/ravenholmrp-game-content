@@ -1,0 +1,12 @@
+UnlitGeneric
+{
+    $basetexture "effects/gr8_fake_fog"
+    $additive "1"
+
+    %compilenonsolid "1"
+    %compilenolight "1"
+    %compiledetail "1"
+    %compilenonsolid "1"
+    %compilenoshadows "1"
+    %compilepassbullets "1"
+}

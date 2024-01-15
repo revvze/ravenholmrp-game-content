@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "stone/marblewall004b"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17skyscraper"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

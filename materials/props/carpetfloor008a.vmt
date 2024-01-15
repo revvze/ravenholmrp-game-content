@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "props/carpetfloor008a"
+	"$surfaceprop" "carpet"
+	"%keywords" "combine"
+
+	"$detail" "detail\fabric_detail_01"
+	"$detailscale" "8"
+	"$detailblendfactor" 0.5
+	"$detailblendmode" "0"
+}

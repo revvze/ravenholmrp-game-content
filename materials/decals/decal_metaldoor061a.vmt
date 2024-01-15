@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$alphatest" 1
+	"$basetexture" "metal/metaldoor061a"
+	"$surfaceprop" "metal"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "door"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

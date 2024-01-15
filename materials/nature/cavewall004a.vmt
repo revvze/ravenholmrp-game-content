@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "nature/cavewall004a"
+	"$bumpmap" "nature/cavewall004a_normal"
+	"$surfaceprop" "concrete"
+
+	"$detail" detail\rock_detail_04
+	"$detailscale" 12.0
+	"$detailblendfactor" 1.0
+	"$detailblendmode" 0
+}

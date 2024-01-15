@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" "Building_Template/Building_Trainstation_Template001f"
+	"$surfaceprop" "glass"
+
+	"$detail" "detail\dt_smooth1"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

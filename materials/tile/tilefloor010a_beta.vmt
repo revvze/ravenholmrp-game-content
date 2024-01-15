@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "tile/tilefloor010a_beta"
+	"$surfaceprop" "tile"
+	"%keywords" "c17downtown"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

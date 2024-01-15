@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "decals/decal_poster_stalker_clean"
+	"$surfaceprop" "paper"
+}

@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/jetski/jetski"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/jetski/jetski_n"
+	"$selfillum" "1"
+	"$selfillummask" "models/jetski/jetski_illum"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"16"
+	"$phongboost" 			"0.25"
+	"$phongfresnelranges"	"[1 2 3]"
+	"$phongtint" 			"[0.6 0.8 1]"
+}

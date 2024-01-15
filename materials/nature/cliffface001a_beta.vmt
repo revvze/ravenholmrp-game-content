@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "nature/cliffface001a_beta"
+	"$surfaceprop" "dirt"
+
+	"$detail" "detail\rock_detail_01"
+	"$detailscale" "11"
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+}

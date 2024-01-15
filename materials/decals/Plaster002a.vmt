@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$alphatest" 1	
+	"$basetexture" "decals/Plaster002a"
+	"$decal" 1
+	"$decalscale" .25
+}

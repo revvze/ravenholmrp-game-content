@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_lab/teleport_kleiner/main_teleport_diff"
+	"$bumpmap" "models/props_lab/teleport_kleiner/main_teleport_normal"
+	"$detail" "models/props_lab/detail_metal"
+	"$surfaceprop" "solidmetal"
+	"$model" 1
+	$phong 1
+    //$phongexponent 100 
+    $phongfresnelranges "[0.5 1.7 1.11]"
+    $phongalbedotint 1
+	$phongboost 2
+}

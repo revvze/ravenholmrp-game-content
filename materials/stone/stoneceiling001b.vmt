@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	"$basetexture" "stone/stoneceiling001b"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17skyscraper"
+	"$bumpmap" "stone/stoneceiling001b_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5]"
+
+	"$detail" "detail\concrete_detail_04"
+	"$detailscale" "2"
+	"$detailblendfactor" 1.5
+	"$detailblendmode" 0
+}

@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture" "glass/glasswindow_lab01_illum"
+	"$surfaceprop" "glass"
+	"%keywords" "c17downtown"
+	"$bumpmap" "glass/glasswindow001a_normal"
+}

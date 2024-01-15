@@ -1,0 +1,12 @@
+VertexLitGeneric
+
+{
+
+	"$basetexture" "wood/woodstair002c"
+
+	"$surfaceprop" "wood"
+
+	"%keywords" "c17skyscraper"
+
+}
+

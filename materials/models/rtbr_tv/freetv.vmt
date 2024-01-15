@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\rtbr_tv/freetv"
+	"$bumpmap"			"models\rtbr_tv/freetv_n"
+
+
+	// PHONG
+	$phong                      1
+	$phongboost                 0.2
+	$phongfresnelranges         "[1 3 6]"
+	$nocull 1
+
+
+}

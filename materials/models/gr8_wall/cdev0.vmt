@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+    "$basetexture" "models/gr8_wall/cdev_alb"
+    "$bumpmap" "models/gr8_wall/cdev_nrm"
+
+    "$envmap" "env_cubemap"
+    "$normalmapalphaenvmapmask" "1" // we use this cuz $bumpmap
+    "$envmaptint" "[.5 .5 .5]"
+    "$envmapcontrast" "1.5"
+    "$envmapsaturation" "0.5"
+    "$envmapfresnel" "0.15"
+    
+    "$surfaceprop" "metal"
+    "$model" "1"
+    "$reflectivity" "[0.1 0.05 0.05]"
+}

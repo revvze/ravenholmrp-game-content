@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\props_monastery\chandelier"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+ 		"vertexlitgeneric_HDR_dx9"
+ 		{
+  			"$envmaptint" "[.5 .5 .5]"
+ 		}
+}

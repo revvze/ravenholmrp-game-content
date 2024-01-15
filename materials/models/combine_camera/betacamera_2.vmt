@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\combine_camera/betacamera_2"
+	"$bumpmap" "models\combine_camera/betacamera_2_n"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"	"[0.3 0.3 0.3]"	
+
+ 	"$selfillum" 1
+    	"$selfillummask" "models\combine_camera/betacamera_2_illum"
+}

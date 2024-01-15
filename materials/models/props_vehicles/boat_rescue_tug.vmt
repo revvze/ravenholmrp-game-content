@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models\props_vehicles\boat_rescue_tug.vtf"
+$Selfillum 1
+}

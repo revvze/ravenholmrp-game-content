@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "Building_Template/Building_Template003l_beta"
+	"$surfaceprop" "concrete"
+	"$translucent" 1
+
+	"$detail" "detail\plaster_detail_01"
+	"$detailscale" "8.283"
+	"$detailblendfactor" 1.2
+	"$detailblendmode" "0"
+}

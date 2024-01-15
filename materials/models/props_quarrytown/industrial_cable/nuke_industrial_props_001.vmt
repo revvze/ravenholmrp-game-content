@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"            "models/props_quarrytown/industrial_cable/nuke_industrial_props_001"
+	"$basealphaenvmapmask"    "1"
+	"$envmap" "env_cubemap"
+
+	"$surfaceprop"            "metal"
+}

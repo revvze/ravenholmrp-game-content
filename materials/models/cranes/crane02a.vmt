@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "Models/Cranes/crane02a"
+	"$surfaceprop" "metal"
+	"$alphatest" 1
+
+}

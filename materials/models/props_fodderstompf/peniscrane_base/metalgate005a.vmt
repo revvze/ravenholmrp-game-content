@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	// original shader: basetimeslightmapalphablend
+	"$translucent" 1
+	"$basetexture" "metal/metalgate005a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown,c17industrial,wasteland"
+}

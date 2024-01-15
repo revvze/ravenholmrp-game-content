@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_silo/unit_ac_03_grate"
+	"$bumpmap" "models/props_silo/unit_ac_03_grate_n"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}

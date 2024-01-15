@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture 		metal/metalpipe006a
+	$surfaceprop 		metal
+	$envmap 			env_cubemap
+	$envmaptint 		"[ 0.5 0.5 0.5 ]"
+	$basealphaenvmapmask 1
+	"%keywords" 		"leak,c17industrial"
+}

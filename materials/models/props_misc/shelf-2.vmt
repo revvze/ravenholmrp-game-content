@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models/props_misc/shelf-2"
+$surfaceprop wood
+}

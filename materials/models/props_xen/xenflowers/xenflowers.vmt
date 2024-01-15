@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\props_xen\xenflowers\xenflowers"
+	"$bumpmap" "models\props_xen\xenflowers\xenflowers_n"
+     	 
+	 "$detail" "models\props_xen\xenflowers\xenflowers_illum"
+     	 "$detailscale" "1"        
+     	 "$detailblendfactor" "1"  
+     	 "$detailblendmode" "5"    
+
+	"$alphatest" "1"
+
+	"$nocull" "1"
+	"$phong"     "1"
+	"$phongexponent"  "11"
+	"$phongboost"   "0.5"
+	"$phongfresnelranges"   "[1 .7 .3]"
+	"$phongwarptexture"  "models\fauna\hoofspore\fauna_iridescence"
+
+}

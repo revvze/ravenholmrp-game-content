@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$basetexture" "brick/brickwall010g"
+	"$surfaceprop" "brick"
+	"%keywords" "c17downtown"
+	"$bumpmap" "brick/brickwall010g_normal"
+
+	"$detail" "detail\noise_detail_01"
+	"$detailscale" "7.740"
+	"$detailblendfactor" .8
+	"$detailblendmode" 0
+}

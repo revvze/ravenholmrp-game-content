@@ -1,0 +1,8 @@
+WorldVertexTransition
+{
+	"$basetexture" "flesh/pustuleflesh_01"
+	"$basetexture2" "flesh/meatyflesh_01"
+	"$surfaceprop" "flesh"
+	"$blendmodulatetexture" "nature/blendtexture01"
+	
+}

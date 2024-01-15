@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"				"models\props_borealis\lifering\lifering"
+	"$bumpmap"					"models\props_borealis\lifering\lifering_n"
+	
+	"$phong"					"1"
+	"$phongexponent"			"3"
+	"$phongboost"				"3"
+	"$phongfresnelranges"		"[0.25 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"1"	
+	"$rimlightboost"			".3"
+	"$rimmask"					"1"
+}

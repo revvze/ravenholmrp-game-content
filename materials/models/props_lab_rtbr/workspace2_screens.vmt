@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/props_lab_rtbr/workspace2_screens_color"
+	//"$bumpmap" "models/props_lab_rtbr/workspace2_new_normal"
+	"$surfaceprop" "metal"
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmap" env_cubemap
+	$selfillum 1
+}

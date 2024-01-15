@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+     "$basetexture" "models\props_wasteland\old\boat_fishing02a"
+     "$surfaceprop" "metal"
+}

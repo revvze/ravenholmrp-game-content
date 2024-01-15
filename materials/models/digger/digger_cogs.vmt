@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/digger/digger_cogs"
+	"$bumpmap" "models/digger/digger_cogs_n"
+	"$surfaceprop" "Metal"
+	$phong 1
+	$phongexponenttexture "models/digger/digger_cogs_e"
+	$phongboost      .61
+	$phongfresnelranges		"[1 1 1]"
+}

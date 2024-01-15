@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\battery/battery_color"
+	"$bumpmap" "models\battery/battery_normal"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"	"[1 2 3]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"	
+
+	"$envmapfresnel"	"0.5"
+	"$envmaptint"		"[0.1 0.1 0.1]"
+	"$normalmapalphaenvmapmask"	"1"
+	$selfillum 1
+}

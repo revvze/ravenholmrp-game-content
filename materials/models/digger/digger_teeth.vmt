@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/digger/digger_teeth"
+	"$surfaceprop" "Metal"
+}

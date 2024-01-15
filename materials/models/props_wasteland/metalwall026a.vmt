@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	// Original shader: SphericalEnvMapBlendMaskedBaseTimesLightmap
+	//"$envmapsphere" 1
+	"$basealphaenvmapmask" 1
+	"$basetexture" "metal/metalwall026a"
+	"$envmap" "environment maps/envmapcombine02"
+
+}

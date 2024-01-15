@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_c17/tank_cooling01a"
+	$bumpmap "Models/props_c17/tank_cooling01a_n"
+	$detail "models/props_c17/detail_metal"
+	"$surfaceprop" "metal"
+	$phong 1
+	$phong 1
+    //$phongexponent 100 
+    $phongfresnelranges "[0.5 1.7 1.11]"
+    $phongalbedotint 1
+	$phongboost 2
+}

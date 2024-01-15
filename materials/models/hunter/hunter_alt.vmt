@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\hunter\hunter_alt"
+	"$bumpmap" "models\hunter\hunter_n"
+
+"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .05 .05 .05 ]"
+	"$envmapconstrast" "1"
+	"$nodecal" "1"
+	"$model" "1"
+	"$phong"     "1"
+	"$phongexponent"  "12"
+	"$phongboost"   "3.5"
+	"$phongfresnelranges"   "[0.05 4 .3]"
+	"$phongwarptexture"  "models/hunter/hunter_iridescence"
+
+	"$selfillum" "1"
+	"$selfillummask" "models\hunter/hunter_alt_illum"
+	"$selfillumtint" "[1.7 1.7 1.7]"
+
+}

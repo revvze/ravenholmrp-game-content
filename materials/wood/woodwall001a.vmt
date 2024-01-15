@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "wood/woodwall001a"
+	"$surfaceprop" "wood"
+	"%keywords" "wasteland"
+
+	"$detail" detail\wood_detail_01
+	"$detailscale" 4.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

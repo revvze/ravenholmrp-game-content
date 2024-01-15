@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$baseTexture "models\props\de_inferno\hr_i\curtains_pulled\curtains_pulled.vtf"
+
+}

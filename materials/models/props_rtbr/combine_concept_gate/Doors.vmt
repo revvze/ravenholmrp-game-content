@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\props_rtbr/combine_concept_gate/combine_concept_gate"
+	"$bumpmap" "models\props_rtbr/combine_concept_gate/combine_concept_gate_n"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"0.1"
+	"$phongfresnelranges"	"[0.3 0.3 0.3]"	
+}

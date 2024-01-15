@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$basetexture"				"models\suitcharger\suitcharger"
+	"$bumpmap"					"models\suitcharger\suitcharger_n"
+
+	$selfillum 1
+	$selfillummask						"models\suitcharger\suitcharger_illum"
+	
+	$phong						1
+	$phongexponent				5
+	$phongboost					2
+	$phongfresnelranges			"[0.25 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"80"	
+	"$rimlightboost"			".2"
+	"$rimmask"					"1"
+}

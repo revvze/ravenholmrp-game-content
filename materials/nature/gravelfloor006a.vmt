@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "nature/gravelfloor006a"
+	"$ssbump" "1"
+	"$bumpmap" "nature/gravelfloor006a_SSBump"
+	"$surfaceprop" "dirt"
+
+	"$detail" "detail\gravel_detail_01"
+	"$detailscale" "3.5"
+	"$detailblendfactor" 1.0
+	"$detailblendmode" "0"
+}

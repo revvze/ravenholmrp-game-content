@@ -1,0 +1,17 @@
+UnlitGeneric
+{
+	$basetexture custom_uni\cityclouds001
+	$translucent 1
+	$nofog 0
+	$nocull 1
+
+	Proxies
+	{
+		TextureScroll
+		{
+		texturescrollvar $baseTextureTransform
+		texturescrollrate 0.01
+		texturescrollangle 0.00
+		}
+	}
+}

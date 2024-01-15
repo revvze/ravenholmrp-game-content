@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	"$basetexture" "plaster/plasterwall011c"
+	"$surfaceprop" "plaster"
+	"%keywords" "c17downtown"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+
+	"$detail" "detail\plaster_detail_01"
+	"$detailscale" "6.783"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

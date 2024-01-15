@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	"$basetexture" "stone/stonefloor003a"
+	"$bumpmap" "stone/stonefloor003a_normal"
+	"$surfaceprop" "concrete"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "c17downtown,wasteland"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+
+	"$detail" "detail\rock_detail_01"
+	"$detailscale" "3"
+	"$detailblendfactor" 1.25
+	"$detailblendmode" 0
+}

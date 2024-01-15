@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "wood/woodceilingl002b"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown,c17skyscraper"
+
+	"$detail" "detail/ash_detail_01"
+	"$detailblendfactor" "1.2"
+	"$detailscale" "1.50"
+}

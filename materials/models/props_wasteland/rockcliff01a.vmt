@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "nature/rockwall011b"
+	"$model" 1
+	"$surfaceprop" "boulder"
+}

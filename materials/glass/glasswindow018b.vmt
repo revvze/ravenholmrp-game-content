@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	"$basetexture" "glass/glasswindow018b"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$envmapmask" "glass/glasswindow018a_mask"
+	"$translucent" 1
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

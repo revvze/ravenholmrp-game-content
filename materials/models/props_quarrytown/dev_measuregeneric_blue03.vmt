@@ -1,0 +1,14 @@
+VertexLitGeneric
+
+{
+
+	// a pale aqua from dev_measurecolorscale.
+
+	"$basetexture" "dev/dev_measuregeneric_blue03"
+
+	"$surfaceprop" "concrete"
+
+	"%keywords" "mapbase_dev"
+
+}
+

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture		metal/metalwall076a
+	$model 				1
+	
+	$detail 			detail\detail_concrete_03
+	$detailscale 		7.345
+	$detailblendfactor .6
+	$detailblendmode 	0
+}

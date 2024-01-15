@@ -1,0 +1,10 @@
+WorldVertexTransition
+{
+	$basetexture nature/rockwall_citadel02a
+	$surfaceprop rock
+
+	$basetexture2 nature/rockwall015a_beta
+	$surfaceprop2 rock
+
+	%tooltexture nature/blendrockgrass004a_tooltexture
+}

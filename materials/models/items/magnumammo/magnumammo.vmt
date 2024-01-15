@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	"$basetexture"				"models\items\magnumammo\magnumammo"
+	"$bumpmap"					"models\items\magnumammo\magnumammo_n"
+	
+	$phong						1
+	$phongexponent				36
+	$phongboost				64
+	$phongfresnelranges			"[0.25 0.5 1]"
+	//$envmap					 env_cubemap
+	//$normalmapalphaenvmapmask 		1
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"16"	
+	"$rimlightboost"			"4"
+	"$rimmask"					"1"
+}

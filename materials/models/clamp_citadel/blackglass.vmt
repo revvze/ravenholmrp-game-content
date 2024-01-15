@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models\clamp_citadel/blackglass"
+	"$bumpmap" "models\clamp_citadel/blackglass_normal"
+	"$envmapmask" "models\clamp_citadel/blackglass_mask"
+	"$envmapsphere" 1
+//	"$envmaptint" "[.1 .1 .1]"
+        "$normalmapalphaenvmapmask" 1
+        "$envmapsaturation" 1
+        "$envmapcontrast" 1
+}

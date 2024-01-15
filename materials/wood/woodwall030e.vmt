@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$baseTexture" "wood/woodwall030e"
+	"$surfaceprop" wood
+	"%keywords" "wasteland"
+
+	"$detail" detail\wood_detail_04
+	"$detailscale" 8.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

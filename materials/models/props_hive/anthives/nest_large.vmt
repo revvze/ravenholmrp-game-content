@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\props_hive\anthives\nest_large"
+	"$bumpmap" "models\props_hive\anthives\nest_large_n"
+	"$selfillum" "1"
+	"$selfillummask" "models\props_hive\anthives\nest_large_illum"
+	"$detail" "models\bullchicken\detail_flesh"
+
+	"$phong"     "1"
+	"$phongexponent"  "40"
+	"$phongboost"   "0.05"
+	"$phongfresnelranges"   "[0.2 0.15 0.2]"
+	"$phongwarptexture"  "models/bullchicken/bullsquid_iridescence"
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar" "$selfIllumTint"
+			"sinemin" 0.25
+			"sinemax" 1.25
+			"sineperiod" 10
+		}
+	}
+}

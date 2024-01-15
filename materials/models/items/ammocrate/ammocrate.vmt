@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"				"models\items\ammocrate\ammocrate"
+	"$bumpmap"					"models\items\ammocrate\ammocrate_n"
+
+	"$phong"					"1"
+	"$phongexponent"			"12"
+	"$phongboost"				"0.125"
+	"$phongfresnelranges"		"[0.25 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"15"	
+	"$rimlightboost"			".05"
+}

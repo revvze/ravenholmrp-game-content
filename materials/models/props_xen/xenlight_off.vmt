@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\props_xen\xenlight"
+	"$bumpmap" "models\props_xen\xenlight_n"
+	"$detail" "models\props_xen\detail_flesh"
+
+	"$phong"     "1"
+	"$phongexponent"  "11"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 .7 .3]"
+	"$phongwarptexture"  "models/props_xen/xen_iridescence"
+
+}

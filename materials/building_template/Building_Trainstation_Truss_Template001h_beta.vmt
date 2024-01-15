@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" "Building_Template/Building_Trainstation_Truss_Template001h_beta"
+	"$surfaceprop" "metal"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "4.283"
+	"$detailblendfactor" .65
+	"$detailblendmode" "0"
+}

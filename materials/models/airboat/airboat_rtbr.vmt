@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\airboat/airboat_rtbr"
+	"$bumpmap" "models\airboat/airboat_rtbr_n"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"0.2"
+	"$phongfresnelranges"	"[1 2 3]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"	
+}

@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "wood/woodwall032f"
+	"$surfaceprop" "wood"
+	"%keywords" "c17skyscraper"
+
+	"$detail" detail\wood_detail_03
+	"$detailscale" 8.0
+	"$detailblendfactor" 1.0
+	"$detailblendmode" 0
+}

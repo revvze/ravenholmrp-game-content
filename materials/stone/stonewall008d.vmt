@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	"$basetexture"  "stone/stonewall008d"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+	"$bumpmap"  "stone/stonewall008d_normal"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}
+

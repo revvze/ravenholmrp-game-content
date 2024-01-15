@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "tile/tilefloor004a"
+	"$ssbump" "1"
+	"$bumpmap" "Tile/tilefloor004a_SSBump"
+	"$surfaceprop" "tile"
+	"%keywords" "c17downtown"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

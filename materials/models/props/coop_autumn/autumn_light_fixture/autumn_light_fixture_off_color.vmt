@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\props\coop_autumn\autumn_light_fixture\autumn_light_fixture_off_color"
+
+	"$envmapmask"	"models\props\coop_autumn\autumn_light_fixture\autumn_light_fixture_on_mask"
+
+	"$envmap"				env_cubemap
+
+	
+	
+
+	"$envmaplightscale"		"1"
+	"$envmaplightscaleminmax" 	"[0 1.5]"
+
+	"$envmapcontrast" 		".85"
+
+}

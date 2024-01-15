@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "brick/brickwall011b"
+	"$surfaceprop" "brick"
+	"%keywords" "c17downtown"
+	"$bumpmap" "brick/brickwall011b_normal"
+
+	"$detail" "detail\noise_detail_01"
+	"$detailscale" "7.740"
+	"$detailblendfactor" .8
+	"$detailblendmode" 0
+}

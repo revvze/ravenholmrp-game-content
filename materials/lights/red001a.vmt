@@ -1,0 +1,11 @@
+UnlitGeneric
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "lights/red001a"
+	"$selfillum" 1
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

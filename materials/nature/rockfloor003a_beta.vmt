@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "nature/rockfloor003a_beta"
+	"$surfaceprop" "concrete"
+
+	"$detail" "detail\rock_detail_05"
+	"$detailscale" "6.0"
+	"$detailblendfactor" 1.0
+	"$detailblendmode" "0"
+}

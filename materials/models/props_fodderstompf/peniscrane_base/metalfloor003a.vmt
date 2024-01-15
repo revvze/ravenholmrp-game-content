@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	// original shader: basetimeslightmap
+	"$bumpmap" "metal/metalfloor003a_normal"
+	"$basetexture" "metal/metalfloor003a"
+	"$surfaceprop" "metal"
+	"%keywords" "borealis"
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture 		leak/metal/metalwall054d
+	$envmap 			env_cubemap
+	$envmaptint 		"[.3 .3 .3]"
+	$surfaceprop 		metal
+	$basealphaenvmapmask 1
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$translucent" 1
+	"$basetexture" "decals/skitch_drawing_decal"
+	"$decal" 1
+	"$decalscale" 0.125
+}

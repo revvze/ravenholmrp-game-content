@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "wood/woodshingles006a"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown,wasteland"
+
+	"$detail" detail\wood_detail_01
+	"$detailscale" 6.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

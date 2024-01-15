@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$translucent" 1
+	"$basetexture" "Decals/xenstalk_roots"
+	"$decal" 1
+	"$decalscale" .25
+}

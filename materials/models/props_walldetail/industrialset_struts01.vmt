@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_walldetail/industrialset_struts01"
+	"$model" 1
+
+}

@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "nature/dirtfloor009b"
+	"$surfaceprop" "dirt"
+
+	"$detail" "detail\dirt_detail_01"
+	"$detailscale" "6"
+	"$detailblendfactor" 1.0
+	"$detailblendmode" "0"
+}

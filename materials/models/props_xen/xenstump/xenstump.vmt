@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\props_xen\xenstump\xenstump"
+	"$bumpmap" "models\props_xen\xenstump\xenstump_n"
+	"$detail" "models\props_xen\detail_flesh"
+
+	"$phong"     "1"
+	"$selfillum" "1"
+	"$selfillummask" "models\props_xen\xenstump\xenstump_illum"
+	"$phongexponent"  "11"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 .7 .3]"
+	"$phongwarptexture"  "models/props_xen/xen_iridescence"
+
+}

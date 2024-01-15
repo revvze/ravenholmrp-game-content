@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+    "$basetexture" "models/gr8_wall/cdevh_alb"
+
+    "$envmap" "env_cubemap"
+    "$basealphaenvmapmask" "1"
+    "$envmaptint" "[.25 .25 .25]"
+    "$envmapcontrast" "0.9"
+    "$envmapsaturation" "0.75"
+    "$envmapfresnel" "0.2"
+    
+    "$surfaceprop" "metal"
+    "$model" "1"
+    "$reflectivity" "[0.1 0.05 0.05]"
+}

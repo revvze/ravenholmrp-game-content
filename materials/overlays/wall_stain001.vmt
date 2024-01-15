@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "overlays/wall_stain001"
+$translucent 1
+$decal 1
+}

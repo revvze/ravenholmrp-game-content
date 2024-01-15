@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models\props_c17\circ02/plasterwall028_hole"
+
+}

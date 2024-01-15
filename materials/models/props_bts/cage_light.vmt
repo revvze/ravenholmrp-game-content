@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+"$baseTexture" "models/props_bts/cage_light_BC"
+//Basecolor
+"$bumpmap" "models/props_bts/cage_light_NDX_EnvM"
+//NDX = Normal DirectX
+
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$envmaptint" "[0.8 0.8 0.8]"
+//This envmapmask is a metallic map
+
+//This allows for the use of a PBR RGB emissive map
+"$detail" "models\props_bts\cage_light_Emissive"
+"$detailblendmode" "1"
+"$detailscale" "1"
+"$detailblendfactor" "75"
+}

@@ -1,0 +1,21 @@
+LightmappedGeneric
+{
+    "$basetexture" "concrete/concrete011"
+    "$bumpmap" "concrete/concretewall011c_nrm"
+
+    "$detail" "detail/concrete_detail_05"
+    "$detailscale" "[8 8]"
+    "$detailblendfactor" "0.75"
+    "$detailblendmode" "0"
+
+    "$bumpscale" "0.75"
+
+    "$phong" "1"
+    "$phongexponenttexture" "concrete/pillar_exp"
+    "$phongboost" "0.5"
+    "$phongfresnelangles" "0 0.1 0.25"
+
+    "$surfaceprop" "concrete"
+    "$model" "1"
+    "$reflectivity" "[0.25 0.25 0.25]"
+}

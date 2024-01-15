@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$baseTexture" "props/paperposter009a"
+	"$surfaceprop" "paper"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "10"
+	"$detailblendfactor" 3
+	"$detailblendmode" "0"
+}
+
+

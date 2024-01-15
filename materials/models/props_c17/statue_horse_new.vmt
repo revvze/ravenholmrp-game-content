@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/props_c17/statue_horse_new_color"
+	"$envmapmask" "models/props_c17/statue_horse_new_env"
+	"$surfaceprop" "metal"
+	"$envmap" env_cubemap
+}

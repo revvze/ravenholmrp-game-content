@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture" 	"models\props\coop_autumn\autumn_console\autumn_console_color"
+
+	"$envmapmask"	"models\props\coop_autumn\autumn_console\autumn_console_mask"
+	"$envmap"				"env_cubemap"
+
+	
+	
+	"$detail"					"models\props\de_nuke\hr_nuke\metal_crate_001\metal_crate_001_detail"
+	"$detailscale"				"[6 5]"
+	"$detailblendfactor" 		"1"
+	"$envmaplightscale"		"1"
+	"$envmaplightscaleminmax" 	"[0 1.5]"
+
+	"$envmapcontrast" 		".95"
+
+
+}

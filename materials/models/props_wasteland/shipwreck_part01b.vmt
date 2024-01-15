@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	
+	"$baseTexture"			"models/props_wasteland/shipwreck_part01b"
+	//"$bumpmap" "models\props_wasteland\shipwreck_part01b_normal"
+	//"$normalmapalphaenvmapmask" 1
+	
+
+
+}

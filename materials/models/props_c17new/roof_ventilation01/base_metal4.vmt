@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture models/props_c17new/roof_ventilation01/base_metal4
+	$surfaceprop metal
+	$envmap env_cubemap
+	$detail detail\metal_detail_03
+	$detailscale 1
+}

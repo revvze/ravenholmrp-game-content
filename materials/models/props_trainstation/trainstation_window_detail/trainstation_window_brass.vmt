@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\props_trainstation\trainstation_window_detail/trainstation_window_brass"
+	"$surfaceprop" "metal"
+
+	"$envmap"		"env_cubemap"
+
+	"$envmaplightscale"	"1"
+	"$envmaplightscaleminmax" 	"[0 2]"
+	"$envmapcontrast" 		".9"
+
+	"$detail" "detail\metal_detail_06"
+	"$detailscale" "0.5"
+	"$detailblendfactor" 2
+	"$detailblendmode" "0"
+}

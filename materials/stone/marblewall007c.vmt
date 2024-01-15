@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+	// Original shader: CubicEnvMapBlendMaskedBaseTimesLightmap
+	"$basealphaenvmapmask" 1
+	"$basetexture" "stone/marblewall007c"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17skyscraper"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

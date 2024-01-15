@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$basetexture" "wood/woodwall013c"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown"
+	"$translucent" 1
+
+	"$detail" detail\plywood_detail_01
+	"$detailscale" 3.0
+	"$detailblendfactor" 0.8
+	"$detailblendmode" 0
+}

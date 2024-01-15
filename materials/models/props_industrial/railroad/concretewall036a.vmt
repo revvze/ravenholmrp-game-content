@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture concrete/concretewall036a
+	$surfaceprop concrete
+	$model 1
+}

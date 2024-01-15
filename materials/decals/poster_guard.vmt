@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$basetexture" "Decals/poster_guard"
+	"$decal" 1
+	"$decalscale" 0.125
+	"%keywords" "c17downtown"
+	"$alphatest" "1"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "10"
+	"$detailblendfactor" 3
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	// original shader: basetimeslightmap
+	"$basetexture"  "stone/stonewall039d"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown,wasteland"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

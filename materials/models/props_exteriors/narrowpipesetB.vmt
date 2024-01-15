@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_exteriors/narrowpipesetB"
+	"$bumpmap" "models/props_exteriors/narrowpipesetB_n"
+	envmap "env_cubemap"
+}

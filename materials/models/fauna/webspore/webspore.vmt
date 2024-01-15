@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\fauna\webspore\webspore"
+	"$bumpmap" "models\fauna\webspore\webspore_n"
+	"$detail" "models\fauna\hoofspore\detail_flesh"
+
+	"$phong"     "1"
+	"$phongexponent"  "8"
+	"$phongboost"   "0.3"
+	"$phongfresnelranges"   "[1 .7 .3]"
+	"$phongwarptexture"  "models\fauna\hoofspore\fauna_iridescence"
+
+}

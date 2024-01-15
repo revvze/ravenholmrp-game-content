@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models\props_combine\combine_crate/combine_crate"
+	$bumpmap "models\props_combine\combine_crate/combine_crate_n"
+	$surfaceprop Metal
+
+	$phong 1
+	$phongfresnelranges "[0.2 2 5]"
+	$phongexponent 200
+	$halflambert 1
+	$phongboost 1
+	$phongalbedoboost 1.5
+}

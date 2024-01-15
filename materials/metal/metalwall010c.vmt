@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
+	"$basealphaenvmapmask" 1
+	"$basetexture" "metal/metalwall010c"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"%keywords" "kraken"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "4.283"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

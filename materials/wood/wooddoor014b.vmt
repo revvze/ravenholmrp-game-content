@@ -1,0 +1,18 @@
+LightmappedGeneric
+{
+	"$basetexture" "Wood/wooddoor014b"
+	"$bumpmap" "wood/wooddoor014a_beta_normal"
+	"$surfaceprop" "wood"
+	"%keywords" "c17skyscraper"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .6 .6 .6 ]"
+
+	"$detail" detail\wood_detail_04
+	"$detailscale" 8.0
+	"$detailblendfactor" 1.0
+	"$detailblendmode" 0
+}

@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture"				"models\healthcharger\healthcharger"
+	"$bumpmap"					"models\healthcharger\healthcharger_n"
+	"$color2"					"[0.5 0,5 0,5]"
+
+	$selfillum 1
+	$selfillummask	"models\healthcharger\healthcharger_illum"
+	
+	$phong						1
+	$phongexponent				5
+	$phongboost					4
+	$phongfresnelranges			"[0.25 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"80"	
+	"$rimlightboost"			".2"
+	"$rimmask"					"1"
+}

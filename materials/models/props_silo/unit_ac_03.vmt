@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_silo/unit_ac_03"
+	"$bumpmap" "models/props_silo/unit_ac_03_norm"
+	"$surfaceprop" "Metal"
+}

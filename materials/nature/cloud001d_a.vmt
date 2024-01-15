@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$basetexture" "nature/cloud001c"
+	"$cloudalphatexture" "shadertest/cloudalpha"
+	"$cloudscale" "[ 2.00 2.00 2.00 ]"
+	"$maskscale" "[ 1.00 1.00 1.00 ]"
+	"%tooltexture" "nature/cloud001c"
+	"$translucent" "1"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 0.05
+		}
+	}
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture		concrete/concretewall060e
+	$detail 			detail\detail_concrete_03
+	$detailscale 		7.345
+	$detailblendfactor .6
+	$detailblendmode 	0
+}

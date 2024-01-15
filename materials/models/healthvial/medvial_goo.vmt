@@ -1,0 +1,17 @@
+UnlitGeneric
+{
+
+	// MAIN SETTINGS
+	$basetexture                "models/healthvial/medvial_goo"
+	$selfillum                       "1"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .1
+			"texturescrollangle" 90
+		}
+	}
+}

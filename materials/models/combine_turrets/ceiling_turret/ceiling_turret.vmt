@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\combine_turrets\ceiling_turret/ceiling_turret"
+	"$bumpmap" "models\combine_turrets\ceiling_turret/ceiling_turret_n"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"	"[0.3 0.3 0.3]"	
+
+ 	"$selfillum" 1
+}

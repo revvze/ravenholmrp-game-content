@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\gibs\apc02_gibs/apc2gib"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\gibs\apc02_gibs/apc2gib_n"
+
+	 "$detail" "models\gibs\apc02_gibs\apc2gib_illum"
+     	 "$detailscale" "1"        
+     	 "$detailblendfactor" "1"  
+     	 "$detailblendmode" "5"  
+
+	"$phong"  				"1"
+	"$phongexponent" 		"100"
+	"$phongboost" 			"0.1"
+	"$phongfresnelranges"	"[1 2 3]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"
+	"$nocull" "1"
+	"$alphatest" "1"
+
+}

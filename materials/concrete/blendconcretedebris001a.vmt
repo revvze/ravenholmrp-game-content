@@ -1,0 +1,13 @@
+WorldVertexTransition
+{
+	"$basetexture" "Concrete/concretefloor012a"	
+	"$basetexture2" "concrete/concretefloor007a"
+	"%tooltexture" "Concrete/concretefloor012a"
+	"$surfaceprop" "concrete"
+	"$surfaceprop2" "dirt"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+      "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+//	"%keywords" "c17downtown"
+	"$bumpmap" "concrete/concretefloor012a_normal"
+	"$bumpmap2" "concrete/concretefloor007a_normal"
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$baseTexture "models\Props_rooftop/Hotel_rooftop_equip001"
+$surfaceprop 			"metal"
+
+
+
+
+
+}

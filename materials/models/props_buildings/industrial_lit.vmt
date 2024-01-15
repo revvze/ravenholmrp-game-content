@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/props_buildings/industrial"
+	//"$translucent"			1
+	"$alphatest"			1
+
+	"$detail" "models/props_buildings/industrial_mask"
+	"$detailscale" 1
+	"$detailblendfactor" 1
+	"$detailblendmode" 5
+}

@@ -1,0 +1,128 @@
+// envmaptint_fix
+
+
+
+VertexLitGeneric
+
+
+
+{
+
+
+
+	"$basetexture" "tile/tilefloor016a"
+
+
+
+	"$surfaceprop" "metal"
+
+
+
+	"%keywords" "combine"
+
+
+
+
+
+
+
+	// note: even though env_cubemap is here, it will turned off for dx6
+
+
+
+	// because $multipass 1 isn't defined
+
+
+
+	"$envmap" "env_cubemap"
+
+
+
+	"ldr?$envmaptint" "[ .6 .6 .6 ]"
+
+
+
+	"hdr?$envmaptint" "[.01 .01 .01]"
+
+
+
+
+
+
+
+	sdk_vertexlitgeneric_dx9
+
+
+
+	{
+
+
+
+		"$bumpmap" "tile/tilefloor021a_normal"
+
+
+
+		"$normalmapalphaenvmapmask" 1
+
+
+
+	}
+
+
+
+
+
+
+
+	sdk_vertexlitgeneric_dx8
+
+
+
+	{
+
+
+
+		"$bumpmap" "tile/tilefloor021a_normal"
+
+
+
+		"$nodiffusebumplighting" 1
+
+
+
+		"$normalmapalphaenvmapmask" 1
+
+
+
+	}
+
+
+
+
+
+
+
+//	"vertexlitgeneric_nobump_dx8"
+
+
+
+//	{
+
+
+
+//		"$basetexture" "tile/citadel_tilefloor016a"
+
+
+
+//		"$basealphaenvmapmask" 1
+
+
+
+//	}
+
+
+
+}
+
+
+

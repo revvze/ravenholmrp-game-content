@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$translucent" "1"
+	"$basetexture" "Models/props_wasteland/traintrack001"
+	"$surfaceprop" "wood"
+}

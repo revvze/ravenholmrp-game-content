@@ -1,0 +1,12 @@
+VertexLitGeneric
+
+{
+
+	// original shader: basetimeslightmap
+
+	"$basetexture" "props/signbillboard002a"
+
+	"$surfaceprop" "wood"
+
+}
+

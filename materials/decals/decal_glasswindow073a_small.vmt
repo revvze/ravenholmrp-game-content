@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	"$basetexture" "glass/glasswindow073a"
+	"$surfaceprop" "glass"
+	"$decal" 1
+	"$decalscale" 0.125
+	"%keywords" "window"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	// original shader: basetimeslightmap
+	"$basetexture"  "concrete/concretewall048a"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17sewers,wasteland"
+
+        	"$detail" "detail\noise_detail_01"
+	"$detailscale" "7.345"
+	"$detailblendfactor" .6
+	"$detailblendmode" 0
+}

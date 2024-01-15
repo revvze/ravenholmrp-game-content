@@ -1,0 +1,12 @@
+VertexLitGeneric
+
+{
+
+	"$basetexture" "wood/woodwall048_floor"
+
+	"$bumpmap" "wood/woodwall048_floor_normal"
+
+
+
+}
+

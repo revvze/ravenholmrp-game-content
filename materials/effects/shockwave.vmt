@@ -1,0 +1,14 @@
+Refract
+{
+	"$normalmap" "effects/shockwave"
+	$refractamount 0.02
+	
+	$bluramount 3
+	
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$vertexcolormodulate" "1"
+	$NoCull 1
+	$nofog 1
+}

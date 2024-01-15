@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "glass/glassscreen001d"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	"%keywords" "c17downtown,wasteland"
+
+	"$detail" "detail\screen_detail_01"
+	"$detailscale" "10.0"
+	"$detailblendfactor" 1.0
+	"$detailblendmode" "0"
+}

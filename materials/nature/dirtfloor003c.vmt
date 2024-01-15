@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmap
+	"$basealphaenvmapmask" 1
+	"$basetexture" "nature/dirtfloor003c"
+	"$envmap" "environment maps/envmap001a"
+	"$surfaceprop" "dirt"
+}

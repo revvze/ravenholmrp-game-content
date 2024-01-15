@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture metal/metalhull003a
+	$surfaceprop metal
+	$model 1
+}

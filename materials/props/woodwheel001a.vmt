@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$alphatest" 1
+	"$basetexture" "props/woodwheel001a"
+	"$surfaceprop" "wood"
+
+	"$detail" detail\wood_detail_01
+	"$detailscale" 12
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

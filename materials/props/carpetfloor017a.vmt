@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$baseTexture" "props/carpetfloor017a"
+	"$surfaceprop" "carpet"
+	"$bumpmap" "props/carpetfloor017a_ssbump"
+	"$ssbump" "1"
+
+	"$detail" "detail\fabric_detail_01"
+	"$detailscale" "16"
+	"$detailblendfactor" 0.75
+	"$detailblendmode" "0"
+}

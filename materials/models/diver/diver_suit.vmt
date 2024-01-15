@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\diver/diver_suit"
+	"$bumpmap" "models\diver/diver_suit_n"
+    	$phong 1
+	$phongexponent 16
+	$phongboost	0.5
+	$phongalbedotint 1
+	$phongfresnelranges	"[0.3 0.6 0.3]"
+	$alphatest 1
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.05
+}

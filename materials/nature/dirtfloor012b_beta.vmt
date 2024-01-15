@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "nature/dirtfloor012b_beta"
+	"$bumpmap" "nature/dirtfloor012a_beta_normal"
+	"$surfaceprop" "dirt"
+
+	"$detail" "detail\dirt_detail_01"
+	"$detailscale" "2.0"
+	"$detailblendfactor" .5
+	"$detailblendmode" "0"
+}

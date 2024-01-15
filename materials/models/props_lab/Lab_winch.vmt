@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_lab/Lab_winch"
+	"$surfaceprop" "solidmetal"
+	"$model" 1
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/props_lab/Lab_winch_mask"
+}

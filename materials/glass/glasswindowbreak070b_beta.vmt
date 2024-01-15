@@ -1,0 +1,34 @@
+ShatteredGlass
+{
+	// base texture is a dummy; we need something here to indicate to the shader
+	// that we've got one though
+	"$basetexture" "glass/glasswindowbreak070b_beta"
+
+	"$detail" "glass/glasswindowbreak070b_beta"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"%keywords" "c17industrial"
+	"$envmapmask" "glass/glasswindowbreak070b_beta_mask"
+	"$translucent" 1
+	"$envmaptint" "[.05 .05 .05]"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+
+	// On the med-low end, we've gotta use the alpha to tune down the lighting
+	ShatteredGlass_DX7
+	{
+		"$lightmaptint" 0.1
+		"$envmaptint" "[.1 .1 .1]"
+	}
+
+	"$nocull" 1
+	"Proxies"
+	{
+		"BreakableSurface"
+		{
+		}
+	}
+}

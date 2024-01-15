@@ -1,0 +1,20 @@
+VertexLitGeneric
+
+{
+
+	"$vertexcolor" "1"
+
+	"$vertexalpha" "1"
+
+	// original shader: decalbasetimeslightmapalphablend
+
+	"$translucent" 1
+
+	"$basetexture" "decals/decalstain007a"
+
+
+
+	"%keywords" "c17downtown,c17sewers,wasteland"
+
+}
+

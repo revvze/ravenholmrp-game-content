@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"				"Models/boolet/308_bullet"
+
+	$envmap						env_cubemap
+	$envmaptint					"[ .8 .4 .2 ]"
+
+	$phong						1
+	$phongexponent				50
+	$phongboost					100
+	$phongfresnelranges			"[0.25 0.5 1]"
+	"$phongalbedotint"			"1"
+	"$phongalbedoboost"			"48"
+	"$basemapalphaphongmask"	"1"
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture"  "concrete/concretewall066a_beta"
+	"$surfaceprop" "concrete"
+	"%keywords" "airexchange"
+}

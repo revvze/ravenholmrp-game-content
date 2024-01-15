@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture" "Models/props_c17/old/light_domelight02_on"
+	"$envmap" "env_cubemap"	
+	"$surfaceprop" "glass"
+	"$translucent" 1
+	"$nocull" "1"
+}
+

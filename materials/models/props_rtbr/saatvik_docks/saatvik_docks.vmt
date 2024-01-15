@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\props_rtbr\saatvik_docks/saatvik_docks"
+	"$bumpmap" "models\props_rtbr\saatvik_docks/saatvik_docks_n"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"64"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"	"[1 2 3]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"
+}

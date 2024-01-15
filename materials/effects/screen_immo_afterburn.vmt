@@ -1,0 +1,15 @@
+UnlitGeneric
+{
+	"$basetexture" "effects/screen_immo_afterburn"
+	"$additive" 1
+
+	Proxies // proxies are listed inside this block
+	{
+		AnimatedTexture
+		{
+			animatedtexturevar $basetexture
+			animatedtextureframenumvar $frame
+			animatedtextureframerate 30
+		}
+	}
+}

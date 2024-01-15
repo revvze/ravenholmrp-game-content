@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "Models/props_c17/barrelside02a"
+	"$envmapmask" "Models/props_c17/barrelside02a_mask"
+	"$envmap" env_cubemap
+}

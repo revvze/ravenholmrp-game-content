@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+    "$basetexture" "models/gr8_wall/cdoorb"
+    "$lightwarptexture" "models/gr8_wall/tightwarp"
+
+    "$surfaceprop" "metal"
+    "$model" "1"
+    "$reflectivity" "[0 0 0]"
+}

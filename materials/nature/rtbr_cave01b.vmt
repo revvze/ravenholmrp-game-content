@@ -1,0 +1,23 @@
+LightmappedGeneric
+{
+	"$basetexture"	"nature/Cave01b_basecolor"
+	"$surfaceprop"	"rock"
+	//"$bumpmap" "nature/Cave01b_normal"
+	"$bumpmap" "nature/Cave01b_ssbump"
+	"$ssbump" "1"
+	"$normalmapalphaenvmapmask" 1
+//	"$envmaptint" "[ .09 .09 .09 ]"
+	//"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmaptint" "[ .4 .4 .4 ]"
+	"$envmap" "cubemaps/cubemap_cave01"
+	//$envmap env_cubemap
+	"%keywords" "rtbr"
+	"$seamless_scale" 0.005
+
+	"LightmappedGeneric_hdr_dx9"
+	{
+	"$envmaptint" "[ .4 .4 .4 ]"
+	//"$envmap" "cubemaps/cubemap_cave01"
+	$envmap env_cubemap
+	}
+}

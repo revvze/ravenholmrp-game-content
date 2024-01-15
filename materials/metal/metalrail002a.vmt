@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+	"$basetexture" "Metal/metalrail002a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metalgrate"
+	"%keywords" "c17industrial"
+	"$alphatest" 1
+        	"$alphatestreference" .3
+
+	"$detail" "detail\metal_detail_02"
+	"$detailscale" "15.0"
+	"$detailblendfactor" 5
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,46 @@
+// envmaptint_fix
+LightmappedGeneric
+{
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.65 0.85 0.65 ]"
+
+	"$surfaceprop" "slime"
+	"%keywords" "wasteland"
+	"%compileSlime" 1
+
+	"$bottommaterial" "nature/slimertbr_01"
+
+	"$fogenable" 1
+	"$fogcolor" "{29 99 39}"
+	"$fogstart" 1.00
+	"$fogend" 100.00
+
+	// Use scrolling animated textures on DX9 hardware
+	">=DX90"
+	{
+		"$basetexture" "Nature/slimertbr_01"
+		"$bumpmap"  "dev/waterB_normal" 		// These two slide...
+		"$bumpmap2" "dev/waterB_normal"			// ...against each other
+
+		"$bumpmask" "Nature/slimertbr_01_n"	// This holds still and alpha masks to get final normal
+
+		"Proxies"
+		{
+			"TextureScroll"
+			{
+				"texturescrollvar" "$bumptransform"
+				"texturescrollrate" 0.07
+				"texturescrollangle" 100.00
+				"texturescale" 2.8
+			}
+			"TextureScroll"
+			{
+				"texturescrollvar" "$bumptransform2"
+				"texturescrollrate" 0.05
+				"texturescrollangle" -36.00
+				"texturescale" 2.4
+			}
+		}
+	}
+
+}

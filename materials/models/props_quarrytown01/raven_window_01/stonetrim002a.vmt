@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture" "stone/stonetrim002a"
+	"$bumpmap" "stone/stonetrim002a_normal"
+	"$surfaceprop" "concrete"
+
+	"$detail" detail\tile_detail_01
+	"$detailscale" 12.0
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

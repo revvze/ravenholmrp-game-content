@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "concrete/concretefloor004b_rtb"
+	"$surfaceprop" "concrete"	
+	
+	"$detail" "detail/concrete_detail_01"
+	"$detailscale" "2"
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+	"%keywords" "c17downtown"
+}

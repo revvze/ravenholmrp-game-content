@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\props_monastery\altar"
+	"$bumpmap" "models\props_monastery\altar_normal"
+	"$envmap" "env_cubemap"	
+	"$normalmapalphaenvmapmask" 1
+}

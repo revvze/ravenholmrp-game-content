@@ -1,0 +1,29 @@
+WorldVertexTransition
+{
+
+	"<dx90"
+	{
+		"$fallbackmaterial" "nature/rtbr_cave01"
+	}
+
+	"$basetexture" "nature/cave01_basecolor"
+	"$basetexture2" "nature/cave01_basecolor"
+	//"$blendmodulatetexture" "nature/rockblendtexture001a"
+	"$bumpmap" "nature/cave01_ssbump"
+	"$bumpmap2" "nature/cave01a_ssbump"
+	//"$bumpmap" "nature/cave01_normal"
+	//"$bumpmap2" "nature/cave01a_normal"
+	"$ssbump" "1"
+	"$normalmapalphaenvmapmask" 1
+//	"$envmaptint" "[ .09 .09 .09 ]"
+	//"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmaptint" "[ .4 .4 .4 ]"
+	"$envmap" "cubemaps/cubemap_cave01"
+	//$envmap env_cubemap
+	"$surfaceprop" "antlionsand"
+	"%keywords" "rtbr"	
+//	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	"$seamless_scale" .005
+}
+
+	

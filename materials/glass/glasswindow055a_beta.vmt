@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "glass/glasswindow055a_beta"
+	"$surfaceprop" "glass"
+	"%keywords" "c17industrial,wasteland"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

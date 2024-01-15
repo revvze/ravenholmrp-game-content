@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$basetexture" "glass/glasswindow072c"
+	"$surfaceprop" "wood"
+	"%keywords" "c17skyscraper"
+	"$translucent" 1
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

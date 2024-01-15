@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$basetexture" "Glass/glasswindow015a"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+    	"$selfillummask" "decals/decal_glasswindow015a_mask"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "window"
+
+	"$detail" "detail\smooth_detail_01"
+	"$detailscale" "24.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

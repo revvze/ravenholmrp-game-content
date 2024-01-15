@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	// Original shader: BaseTimesLightmap
+	$basetexture			"models/props_quarrytown/crosses_color"
+	$bumpmap			"models/props_quarrytown/crosses_normal"
+	$surfaceprop			"metal"
+	$normalmapalphaenvmapmask	1
+	$envmap				env_cubemap
+
+	$envmaptint			"[.2 .2 .2]"
+	$envmapcontrast			0.25
+
+	$nodecal	1
+
+	"$phong" "1"
+	"$phongboost" "5.7"
+	"$phongexponent" "15"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0.04 0.4 1.5]"
+}

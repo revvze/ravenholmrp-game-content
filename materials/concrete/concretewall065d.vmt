@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture"  "concrete/concretewall065d"
+	"$surfaceprop" "concrete"
+	"%keywords" "airexchange"
+
+        	"$detail" "detail\noise_detail_01"
+	"$detailscale" "7.345"
+	"$detailblendfactor" .6
+	"$detailblendmode" 0
+}

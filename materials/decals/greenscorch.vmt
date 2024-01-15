@@ -1,0 +1,13 @@
+UnlitGeneric
+{
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$decal" 1
+	"$basetexture" "Decals/greenscorch"
+	"$decalscale" 0.20
+	"$decalfadeduration" 10.00
+	"$decalfadetime" 0.00
+	"$modelmaterial" "decals/greenscorch"
+	"selfillum" "1"
+}

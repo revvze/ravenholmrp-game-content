@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture" "Concrete/concretewall024a"
+	"$surfaceprop" "concrete"
+	
+	"$detail" "detail\plaster_detail_01"
+	"$detailscale" "6.783"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+	"%keywords" "c17industrial"
+}

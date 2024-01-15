@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture 			models\props_c17_rtb\ElectricalBox001\ElectricalBox001Base
+	$bumpmap 	 			models\props_c17_rtb\ElectricalBox001\ElectricalBox001Bump
+	$model					1
+	$halflambert			1
+	$phong		 			1
+	$phongboost 			0.5
+	$phongalbedotint		1									
+	$phongfresnelranges		"[.1 .5 1.0]"
+	$surfaceprop metal
+}

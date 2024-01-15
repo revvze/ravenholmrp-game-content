@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\props_combine/combine_light_remake/combine_light_remake"
+	"$bumpmap" "models\props_combine/combine_light_remake/combine_light_remake_n"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"	"[0.3 0.3 0.3]"	
+
+ 	"$selfillum" 1
+    	"$selfillummask" "models/props_combine/combine_light_remake/combine_light_remake_illum"
+}

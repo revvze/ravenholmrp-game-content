@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture" "Models/props_interiors/sodamachine01a_yellow"
+	"$bumpmap" "Models/props_interiors/SodaMachine01a_n"
+	"$surfaceprop" "metal"
+	$phong 1
+	"$phongexponenttexture" "models/props_interiors/sodamachine01_exp"
+    $phongfresnelranges "[0.5 1.7 1.11]"
+    $phongalbedotint 1
+	$phongboost 1
+	$nocull 1
+	
+   
+}
+
+

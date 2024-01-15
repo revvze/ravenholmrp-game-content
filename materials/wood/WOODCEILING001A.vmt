@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$basetexture" "wood/woodceiling001a"
+	"$bumpmap" "wood/woodceiling001a_normal"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown,c17skyscraper"
+
+	"$detail" detail\wood_detail_03
+	"$detailscale" 8.0
+	"$detailblendfactor" 1.0
+	"$detailblendmode" 0
+}

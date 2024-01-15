@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	"$basetexture" "building_template/building_template018c"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "building_template/building_template001b_beta_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .75 .75 .75]"
+	"vertexlitgeneric_dx8"
+	{
+		"$envmaptint" "[.25 .25 .25]"
+	} 
+
+	"$detail" "detail\plaster_detail_01"
+	"$detailscale" "8.283"
+	"$detailblendfactor" 1.2
+	"$detailblendmode" "0"
+}

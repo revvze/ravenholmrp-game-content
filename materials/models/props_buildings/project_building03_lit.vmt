@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\props_buildings\project_building03"
+	"$surfaceprop" "plaster"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+
+	"$detail" "models/props_buildings/project_building03_mask"
+	"$detailscale" 1
+	"$detailblendfactor" 1
+	"$detailblendmode" 5
+}
